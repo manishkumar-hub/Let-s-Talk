@@ -1,4 +1,4 @@
-const socket = io('https://lets-talk-12.herokuapp.com/')
+const socket = io('http://localhost:8000')
 
 // document.write("Hope it runs seccesfuly!");
 const form = document.getElementById('send-container')
