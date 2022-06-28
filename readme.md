@@ -11,6 +11,6 @@ Let's Talk is multi user group chat app built using NodeJs and Socket IO .
 DEMO Screenshots 
 
 <br>
-<img src="Screenshots/Screenshot (31).png" alt="im" >
-<img src="Screenshots/Screenshot (32).png" alt="im" >
-<img src="Screenshots/Screenshot (33).png" alt="im" >
+<img src="screenshots/Screenshot (31).png" alt="im" >
+<img src="screenshots/Screenshot (32).png" alt="im" >
+<img src="screenshots/Screenshot (33).png" alt="im" >
