@@ -1,4 +1,4 @@
-const socket = io('https://tangerine-eclair-1290a5.netlify.app/')
+const socket = io('https://lets-talk-12.herokuapp.com/')
 
 // document.write("Hope it runs seccesfuly!");
 const form = document.getElementById('send-container')
