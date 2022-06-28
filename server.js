@@ -4,7 +4,7 @@ const io = require('socket.io')(process.env.PORT || 8000, {
     origin: '*',
   },
 })
-document.write("Hope it runs seccesfuly!");
+// document.write("Hope it runs seccesfuly!");
 
 const user = {}
 // whenever new user joined then server will  broadcast to all other sockets.

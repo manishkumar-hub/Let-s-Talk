@@ -1,6 +1,6 @@
-const socket = io('https://lets-talk-12.herokuapp.com/')
+const socket = io('https://tangerine-eclair-1290a5.netlify.app/')
 
-document.write("Hope it runs seccesfuly!");
+// document.write("Hope it runs seccesfuly!");
 const form = document.getElementById('send-container')
 const messageInput = document.getElementById('messageInp')
 const messageContainer = document.querySelector('.container')
